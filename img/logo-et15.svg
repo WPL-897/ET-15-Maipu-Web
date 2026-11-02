@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Logo provisorio ET 15 Maipú</title>
+  <desc id="desc">Emblema geométrico provisorio con las letras ET, el número 15 y el nombre Maipú.</desc>
+  <path d="M60 5 105 25v39c0 25-19 41-45 51C34 105 15 89 15 64V25L60 5Z" fill="#101d2b" stroke="#22c7d8" stroke-width="4"/>
+  <path d="M60 15 95 31v31c0 19-14 32-35 41C39 94 25 81 25 62V31l35-16Z" fill="none" stroke="#f5c84c" stroke-width="2"/>
+  <text x="60" y="51" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="900" fill="#fff">ET</text>
+  <text x="60" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="37" font-weight="900" fill="#22c7d8">15</text>
+  <path d="M39 91h42" stroke="#f5c84c" stroke-width="2"/>
+  <text x="60" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="2" fill="#fff">MAIPÚ</text>
+</svg>
